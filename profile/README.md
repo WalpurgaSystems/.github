@@ -5,6 +5,6 @@ But ensuring long -- and predictable -- lifetime for battery-dependent IoT nodes
 
 Being founded in Uppsala, Sweden, _Walpurga Systems_ builds on Uppsala University research in battery-aware design for low-power wireless systems, based on application-oriented measurement and system simulation.
 
-For more information and to be updated when we are ready for customers, please contact: 
+For more information and to be updated when we are fully registered and ready for customers, please contact: 
 
 walpurgasystems@gmail.com
